@@ -1,0 +1,4 @@
+# Configuration options for VonixWelcomer plugin
+
+# Welcome message to be sent to players when they join for the first time
+welcomeMessage: "&aWelcome to the server, {player}! Enjoy your stay."

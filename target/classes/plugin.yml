@@ -1,0 +1,5 @@
+name: VonixWelcomer
+version: 1.1
+main: network.vonix.vonixwelcomer.VonixWelcomer
+author: Pargon
+description: A plugin that sends a welcome message to players when they join.
